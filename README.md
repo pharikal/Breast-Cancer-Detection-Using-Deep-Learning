@@ -85,6 +85,8 @@ The dataset corresponds to 49 lymph node-negative and estrogen receptor positive
 The dataset can be obtained from 
 link: [https://engineering.case.edu/centers/ccipd/data](https://engineering.case.edu/centers/ccipd/data)
 
+## Objective
+
 This course project explores, and reviews various deep learning techniques used for histopathology image analysis with a goal on breast cancer detection. We compared multiple GAN models and showed how an efficient deep-learning model can capture high-level feature representations of pixel intensity in a supervised and semi-supervised manner. LSGAN stands out the best for a supervised learning task owing to its high AveP and SGAN comes handy when we have less labelled data compared to Supervised GAN models. So, we conclude that these high-level features enable the classifier to work very efficiently for detecting multiple nuclei from a large cohort of histopathological images as well as to generate realistic synthesized representations of nuclei and non-nuclei images. This review aims at complementing the effort of pathologists, in examining and analyzing biopsy samples, by computer aided techniques and thereby help medicine and science to predict breast cancer.
 
 ## Acknowledgement
