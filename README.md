@@ -68,7 +68,7 @@ Regular GANs hypothesize the discriminator as a classifier with the sigmoid cros
 
 COGAN consists of pair of GANs. Ming et al proposed CoGAN architecture can learn a joint distribution without any tuple of corresponding images. It can learn a joint distribution with just samples drawn from the marginal distributions. This is achieved by enforcing a weight-sharing constraint that limits the network capacity and favors a joint distribution solution over a product of marginal distributions one.
 
-**Objective** 
+**Contribution** 
 
 The major motivation of this course project is to develop an effective product using Deep Learning method especially in the field of GANs and provide the comparable accuracy of the literature study done. Our novel contribution is to build all GAN models using supervised or semi-supervised learning methods and to choose best GAN model for classification of histopathology images in predicting breast cancer. Additionally, we will change some of the architectural constraints to fine tune the model accuracy and make the model suitable for supervised/semi-supervised learning. We propose additional momentum which stabilized most of our training procedure.
 
